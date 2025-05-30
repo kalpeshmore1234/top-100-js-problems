@@ -1,6 +1,6 @@
 # Top 100 Js Interview Questions
 
-##🧮 1–30: Arrays & Strings
+## 🧮 1–30: Arrays & Strings
 
 1. Reverse a string  
 2. Check if a string is a palindrome  
@@ -34,7 +34,7 @@
 30. Find the frequency of elements in an array  
 
 
-##📚 31–50: Objects & Maps
+## 📚 31–50: Objects & Maps
 31. Deep clone a nested object  
 32. Merge two objects  
 33. Check if two objects are equal (deep comparison)  
@@ -57,7 +57,7 @@
 50. Find the intersection of two objects  
 
 
-##🗂 51–70: Linked Lists, Stacks, Queues
+## 🗂 51–70: Linked Lists, Stacks, Queues
 51. Implement a singly linked list  
 52. Implement a doubly linked list  
 53. Reverse a linked list  
@@ -79,7 +79,7 @@
 69. Implement a priority queue  
 70. Merge two sorted linked lists  
 
-##🌲 71–85: Trees & Graphs
+## 🌲 71–85: Trees & Graphs
 71. Implement a binary tree and binary search tree (BST)  
 72. In-order, pre-order, and post-order traversals  
 73. Level order traversal (BFS)  
@@ -97,7 +97,7 @@
 85. Topological sort of a graph  
 
 
-##⚙️ 86–95: Algorithms & Patterns
+## ⚙️ 86–95: Algorithms & Patterns
 86. Binary search in a sorted array  
 87. Merge sort algorithm  
 88. Quick sort algorithm  
@@ -110,7 +110,7 @@
 95. Generate all permutations of a string  
 
 
-##🕒 96–100: Async, Promises, & DOM
+## 🕒 96–100: Async, Promises, & DOM
 96. Implement a simple promise  
 97. Implement async/await behavior using generators  
 98. Implement a custom event emitter  
@@ -118,6 +118,6 @@
 100. DOM manipulation: Create an element, append, remove, replace  
 
 
-### Assignment Questions that asked in interviews
+## Assignment Questions that asked in interviews
 
 1) Find the closest number which is divisible by 5
