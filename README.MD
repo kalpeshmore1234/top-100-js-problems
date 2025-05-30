@@ -1,3 +1,5 @@
+# Top 100 Js Interview Questions
+
 ##🧮 1–30: Arrays & Strings
 
 1. Reverse a string  
@@ -116,6 +118,6 @@
 100. DOM manipulation: Create an element, append, remove, replace  
 
 
-# Assignment Questions that asked in interviews
+### Assignment Questions that asked in interviews
 
 1) Find the closest number which is divisible by 5
