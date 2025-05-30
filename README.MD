@@ -121,3 +121,5 @@
 ## Assignment Questions that asked in interviews
 
 1) Find the closest number which is divisible by 5
+2) Calculate the sum of first five fibonacci numbers
+3) Count consonants and vowels.
